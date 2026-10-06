@@ -36,7 +36,7 @@ This repository is neatly divided into two independent implementations:
 
 | Framework | Live Preview | Source Code |
 | :--- | :--- | :--- |
-| ⚡ **Vue 3** | [🔗 View Vue Live Demo]() | [`/vue`](#) |
-| ⚛️ **React** | [🔗 View React Live Demo]() | [`/react`](#) |
+| ⚡ **Vue 3** | [🔗 View Vue Live Demo](https://number-parity-checker-vue-fth.vercel.app) | [`/vue`](#) |
+| ⚛️ **React** | [🔗 View React Live Demo](https://number-parity-checker-react-fth.vercel.app) | [`/react`](#) |
 
 ---

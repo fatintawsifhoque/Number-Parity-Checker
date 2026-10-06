@@ -25,6 +25,6 @@ This project focuses on clean event handling, avoiding stale state issues, and i
 
 ### 💻 Live Link
 
-
+https://number-parity-checker-react-fth.vercel.app
 
 ---

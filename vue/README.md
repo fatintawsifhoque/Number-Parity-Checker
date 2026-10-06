@@ -24,6 +24,6 @@ This project demonstrates precise state management and edge-case handling in Vue
 
 ### 💻 Live Link
 
-
+https://number-parity-checker-vue-fth.vercel.app/
 
 ---
